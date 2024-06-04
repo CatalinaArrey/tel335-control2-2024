@@ -2,6 +2,7 @@
 ## Información sobre el proyecto
 - Autor: Catalina Arrey Amunátegui
 - Fecha: 3 de junio del 2024
+- Link del repositorio: https://github.com/CatalinaArrey/tel335-control2-2024
 
 Para este proyecto se utilizará Next.js, por lo que para crear el proyecto se utilizó el comando 
 
