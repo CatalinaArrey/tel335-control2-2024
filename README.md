@@ -31,3 +31,7 @@ Para inicializar el proyecto, correr el siguiente comando en una terminal dentro
 ```bash
 npm run start
 ```
+
+## Comentario
+
+No se realizó Pull Request puesto que al momento de crear el repositorio hubo un problema con el nombre, por lo que se tuvo que crear otro nuevo repositorio durante el desarrollo del control, por lo que la branch feature pasó a llamarse master para evitar problemas en el futuro.
